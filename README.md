@@ -1,4 +1,4 @@
-# [Project Title]
+# Simulation and Source Detection of Infectious Processes on Networks
 
 This repository contains the final project for COM-307. 
 
