@@ -4,7 +4,7 @@ This repository contains the final project for COM-307.
 
 ## Contents
 
-- `notebook.ipynb`: Jupyter notebook containing all the code for the project.
+- `MyCode.ipynb`: Jupyter notebook containing all the code for the project.
 - `*.png`: PNG files that explain some aspects of the project.
 - `animation/`: Folder containing MP4 files including animations.
 - `Simulation_data_Gamma_Beta/`: Folder containing CSV files.
