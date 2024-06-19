@@ -2,6 +2,9 @@
 
 This repository contains the final project for COM-307. 
 
+*You can find a pdf version of the report in [BA_Final_Project_Report.pdf](https://github.com/abdou-u/BA-Project-Final-Report/blob/master/BA_Final_Project_Report.pdf
+)*
+
 ## Contents
 
 - `MyCode.ipynb`: Jupyter notebook containing all the code for the project.
